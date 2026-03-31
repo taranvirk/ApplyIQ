@@ -1,0 +1,19 @@
+[
+  {
+    "id": "seed-2",
+    "company": "DCM",
+    "role": "IT Support Analyst",
+    "status": "Applied",
+    "appliedDate": "2026-03-20",
+    "jobLink": "https://example.com/job/dcm",
+    "notes": "Review networking, DHCP, MAC address, Linux commands.",
+    "jdText": "Seeking knowledge of linux, troubleshooting, jira, communication, and problem solving.",
+    "userSkills": [
+      "Linux",
+      "Communication",
+      "Problem Solving",
+      "SQL"
+    ],
+    "createdAt": "2026-03-20T10:00:00.000Z"
+  }
+]
